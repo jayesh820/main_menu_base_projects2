@@ -1,0 +1,18 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+numpy
+boto3
+# Conditional imports - users will install these if they need the functionality
+# twilio
+# pyautogui
+# opencv-python
+# psutil
+# wmi # For Windows-specific system info
+# pywhatkit
+# paramiko # For SSH functionality
+# xgboost # For advanced ML models
+# lightgbm # For advanced ML models
